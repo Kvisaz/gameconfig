@@ -20,3 +20,11 @@ Array of string pairs for word learning games.
 ```
 http://site.com/game.html?d=word00#word01##word10#word11
 ```
+
+## Game Background / gb/ gamebg 
+
+String url to picture
+- param name: gamebg
+- param name shortcut: gb
+- param value: http://somesite.url/pic.png
+
